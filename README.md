@@ -18,3 +18,7 @@ Mac Os apps
 * [httpie](https://httpie.io/)
 * [iterm](https://iterm2.com/)
 * [fzf](https://github.com/junegunn/fzf)
+* [clipy](https://github.com/Clipy/Clipy)
+* [magnet](https://magnet.crowdcafe.com/)
+* [cheat](https://www.mediaatelier.com/CheatSheet/)
+* [amfa](https://apps.apple.com/us/app/amphetamine/id937984704)
